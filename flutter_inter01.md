@@ -9,9 +9,7 @@
 
 ⚠️系统完整的学习是必须需要的，这里只能帮你总结一些知识点，更多的还请查阅 Dart/Flutter 官网。 
 
-本篇主要是知识点总结，如有疑问可点击各文章链接了解详情，或者查阅我
-[掘金专栏](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)。
-
+ 
 ## Dart 部分
 
 其实学习过 `JavaScript` 或者 `Java/Kotlin` 的人，在学习 `Dart` 上几乎是没什么难度的，**Dart
@@ -89,8 +87,6 @@ branch: "dev");` 。
 
 
 支持重载的操作符 ：
-
-
 
 ![](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1240" height="350"></svg>)
 <span class="figcaption_hack"></span>
@@ -464,117 +460,4 @@ Native](https://link.juejin.im/?target=https://github.com/CarGuo/GSYGithubApp)
 
 [《移动端跨平台开发的深度解析》](https://juejin.im/post/5b395eb96fb9a00e556123ef)
 
-
-
-![](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="247" height="220"></svg>)
-<span class="figcaption_hack"></span>
-
-
-
-* 
-
-* 专栏
-* 
-* 2天前
-* [Android](https://juejin.im/tag/Android)[逆向](https://juejin.im/tag/éå)
-
-* [119]()
-* [38](https://juejin.im/post/5d42f440e51d4561e53538b6#comment)
-* 
-
-* 专栏
-* 
-* 9小时前
-* [Flutter](https://juejin.im/tag/Flutter)
-
-* [4]()
-* [](https://juejin.im/post/5d452cbbf265da039e129f15#comment)
-* 
-
-* 专栏
-* 
-* 10小时前
-* [Android](https://juejin.im/tag/Android)[Flutter](https://juejin.im/tag/Flutter)
-
-* [4]()
-* [](https://juejin.im/post/5d45140e51882533797fc8d2#comment)
-* 
-
-* 专栏
-* 
-* 1天前
-* [Flutter](https://juejin.im/tag/Flutter)
-
-* [28]()
-* [10](https://juejin.im/post/5d43a0efe51d4561af16dca1#comment)
-* 
-
-* 专栏
-* 
-* 6天前
-* [Android](https://juejin.im/tag/Android)[前端](https://juejin.im/tag/åç«¯)
-
-* [360]()
-* [93](https://juejin.im/post/5d3d8817518825348962e6c7#comment)
-* 
-
-* 专栏
-* 
-* 2天前
-* [Android](https://juejin.im/tag/Android)
-
-* [73]()
-* [14](https://juejin.im/post/5d4176365188255d8919be91#comment)
-* 
-
-* 专栏
-* 
-* 1天前
-* [Android](https://juejin.im/tag/Android)[Flutter](https://juejin.im/tag/Flutter)
-
-* [19]()
-* [4](https://juejin.im/post/5d43d866518825061a12a6ee#comment)
-* 
-
-* 专栏
-* 
-* 2天前
-* [Android](https://juejin.im/tag/Android)
-
-* [55]()
-* [6](https://juejin.im/post/5d4262ee6fb9a06afc2520a6#comment)
-* 
-
-* 专栏
-* 
-* 3天前
-* [Android](https://juejin.im/tag/Android)[Flutter](https://juejin.im/tag/Flutter)
-
-* [58]()
-* [8](https://juejin.im/post/5d4124296fb9a06b0f23bffe#comment)
-* 
-
-* 专栏
-* 
-* 6天前
-* [Flutter](https://juejin.im/tag/Flutter)
-
-* [72]()
-* [30](https://juejin.im/post/5d3d733c6fb9a07ecf726d3a#comment)
-* 
-
-* [Dart 部分](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-0)
-
-* [Zone](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-1)
-* [Future](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-2)
-* [Stream](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-3)
-* [Flutter 部分](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-4)
-
-* [Flutter 中的生命周期](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-5)
-* [PlatformView](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-6)
-* [Platform Channel](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-7)
-* [Android 启动页](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-8)
-* [资源推荐](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-9)
-
-* [完整开源项目推荐：](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-10)
-* [文章](https://juejin.im/post/5cd9875ae51d453d022cb662#heading-11)
+ 
