@@ -1,4 +1,7 @@
 # Flutter 每日一题 
+
+节约时间，拒绝长篇累牍，提倡精简有效的面试回答
+
 同步更新地址 [code4flutter](http://code4flutter.com)
 
 ## 面试题目更新
