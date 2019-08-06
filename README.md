@@ -25,7 +25,7 @@ https://github.com/wyufeng02/Flutter-Daily-Interview/issues
   
 [第003期 mixin extends implement之间的关系](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/3)
   
-[第002期 【三棵树】Widget和element和RenderObject之间的关系](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/2)
+[第002期 Widget和element和RenderObject之间的关系](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/2)
  
 [第001期 dart是值传递还是引用传递？](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/1)
   
