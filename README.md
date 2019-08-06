@@ -20,7 +20,7 @@ github更新地址 https://github.com/wyufeng02/Flutter-Daily-Interview/issues
  
 [第007期 为什么说flutter是原生的](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/7)
  
-[第008期 讲一下flutter的几个特点/优缺点](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/iss
+[第008期 讲一下flutter的几个特点/优缺点](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/8)
   
 [第009期 什么是ScopedModel / BLoC模式？](https://github.com/wyufeng02/wyufeng02/Flutter-Daily-Interview/issues/9)
   
